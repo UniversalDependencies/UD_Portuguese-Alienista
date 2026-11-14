@@ -35,7 +35,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Duran, M.S.; Sydio, U.P.; Lopes, L.; Pardo, T.A.S.
+Contributors: Duran, Magali Sanches; Sydio, Ursula Puello; Lopes, Lucelene; Pardo, Thiago Alexandre Salgueiro
 Contributing: elsewhere
 Contact: taspardo@icmc.usp.br
 ===============================================================================
